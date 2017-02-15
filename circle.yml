@@ -1,10 +1,7 @@
 #circle.yml
 machine:
    node:
-     version: 0.10
-
-pre:
-   - npm install
+     version: 6.5.0
 
 test:
    override:
