@@ -1,6 +1,5 @@
 # Dockerfile
 
-<<<<<<< HEAD
 # install nodeJs images
 FROM node:6.5.0
 
