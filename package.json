@@ -1,0 +1,17 @@
+{
+  "name": "hello-ci-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sammi Lin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
