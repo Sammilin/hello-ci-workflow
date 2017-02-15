@@ -2,7 +2,7 @@
 machine:
    node:
     version: 6.5.0
- 
+    
 test:
    override:
       - ./node_modules/.bin/mocha
