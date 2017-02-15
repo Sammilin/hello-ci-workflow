@@ -2,9 +2,10 @@
 machine:
    node:
      version: 0.10
+
 dependencies:
   pre:
-    - npm install
+    - sudo npm install
  
 test:
    override:
